@@ -3,3 +3,4 @@
 
 test/steps/*
 test/out/*
+.idea/
