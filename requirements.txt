@@ -15,3 +15,4 @@ tables
 
 # added
 opencv-python
+scikit-learn
